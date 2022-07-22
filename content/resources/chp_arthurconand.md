@@ -9,10 +9,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Sir Arthur Conan Doyle
 uid: dd9a6b23-3167-f39f-8c11-688302b74cc0
 ---
 Sir Arthur Conan Doyle. (Image courtesy of the Library of Congress, Prints and Photographs Division [reproduction number, LC-USZ62-98124 (b&w film copy neg.)].)
-
