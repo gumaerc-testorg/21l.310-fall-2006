@@ -2,7 +2,7 @@
 content_type: resource
 description: Sir Arthur Conan Doyle. (Image courtesy of the Library of Congress, Prints
   and Photographs Division [reproduction number, LC-USZ62-98124 (b&w film copy neg.)].)
-file: /ol-ocw-studio-app/courses/21l-310-bestsellers-detective-fiction-fall-2006/dd9a6b233167f39f8c11688302b74cc0_chp_arthurconand.jpg
+file: /courses/21l-310-bestsellers-detective-fiction-fall-2006/dd9a6b233167f39f8c11688302b74cc0_chp_arthurconand.jpg
 file_size: 34602
 file_type: image/jpeg
 image_metadata:
