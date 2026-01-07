@@ -55,7 +55,7 @@ Typology: The Hidden Treasure, The Locked Room, the Detective-as-Suspect
 
 Sophocles. *Oedipus Rex*.
 
-Film: {{% resource_link "88204458-3217-4c20-9f5c-ec9cdee89fa0" "*The Moonstone*" %}}. Directed by Paddy Russell. 1972.
+Film: [*The Moonstone*](http://www.imdb.com/title/tt0068108/). Directed by Paddy Russell. 1972.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -69,9 +69,9 @@ Cryptography as Process and as Metaphor
 
 {{< tdclose >}}{{< tdopen >}}
 
-Emerson, Ralph Waldo. "{{% resource_link "62a6c395-f65e-4dbe-9145-2230ed80d1f6" "Nature" %}}." (Read the essay, not the entire work.)
+Emerson, Ralph Waldo. "[Nature](http://www.bartleby.com/5/114.html)." (Read the essay, not the entire work.)
 
-Poe, Edgar Allen. "{{% resource_link "8e1830e3-f026-4bb2-8645-ea48c4a50f2a" "The Raven" %}}." In *Tales of Terror and Detection*.
+Poe, Edgar Allen. "[The Raven](http://www.poemuseum.org/selected_works/the_raven.html)." In *Tales of Terror and Detection*.
 
 *Ancillary Readings*
 
@@ -89,7 +89,7 @@ Materialism, Claustrophobic Homes, Locked Rooms
 
 {{< tdclose >}}{{< tdopen >}}
 
-Poe, Edgar Allen. "{{% resource_link "817796e7-537d-4a3d-b04d-de428aa1e1f6" "Murders in the Rue Morgue (PDF)" %}}," "{{% resource_link "9c2a3211-be71-4575-9272-863439c7e8a2" "The Purloined Letter" %}}," "{{% resource_link "8e1830e3-f026-4bb2-8645-ea48c4a50f2a" "The Raven" %}}," and "{{% resource_link "3cd0bbcc-d75e-4faa-9b0f-24d1c58a5fce" "The Philosophy of Composition" %}}." In *Tales of Terror and Detection.*
+Poe, Edgar Allen. "[Murders in the Rue Morgue (PDF)](https://americanenglish.state.gov/files/ae/resource_files/the_murders_in_the_rue_morgue.pdf)," "[The Purloined Letter](http://xroads.virginia.edu/~HYPER/POE/purloine.html)," "[The Raven](http://www.poemuseum.org/selected_works/the_raven.html)," and "[The Philosophy of Composition](http://www.eapoe.org/works/essays/philcomp.htm)." In *Tales of Terror and Detection.*
 
 *Ancillary Readings*
 
@@ -106,7 +106,7 @@ The Advantages of Empiricism are the Disadvantages of Empiricism
 Why Conan Doyle Killed Off Holmes to Write about Victorian Faeries
 
 {{< tdclose >}}{{< tdopen >}}
-Doyle, Arthur Conan. "{{% resource_link "1419149e-da2c-4eab-8cba-25263eea8502" "A Scandal in Bohemia" %}}," "{{% resource_link "dc179260-6d60-46f1-9ce7-f3eb3dc40d45" "Adventure of the Speckled Band" %}}," "{{% resource_link "e562f01c-616e-4809-bee1-a61b9e5f91a0" "Adventure of the Dancing Men" %}}," "{{% resource_link "20ec4e74-220b-42e0-835f-29ab705ad23e" "Five Orange Pips" %}}," "{{% resource_link "0e770991-7d4a-47fb-ba71-13679fabed77" "The Musgrave Ritual" %}}," and "{{% resource_link "73570c39-85bc-4504-83ae-a06f357f4455" "The Final Problem" %}}." In *Six Great Sherlock Holmes Stories*.
+Doyle, Arthur Conan. "[A Scandal in Bohemia](https://etc.usf.edu/lit2go/32/the-adventures-of-sherlock-holmes/345/adventure-1-a-scandal-in-bohemia/)," "[Adventure of the Speckled Band](http://www.enotes.com/topics/adventure-speckled)," "[Adventure of the Dancing Men](http://www.eastoftheweb.com/short-stories/UBooks/AdveDanc.shtml)," "[Five Orange Pips](https://sherlock-holm.es/stories/html/cano.html#Story-7)," "[The Musgrave Ritual](https://sherlock-holm.es/stories/html/cano.html#Story-19)," and "[The Final Problem](https://sherlock-holm.es/stories/html/cano.html#Story-25)." In *Six Great Sherlock Holmes Stories*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
@@ -119,7 +119,7 @@ Retrospective Narratives
 
 {{< tdclose >}}{{< tdopen >}}
 
-Browning, Robert. "{{% resource_link "a0560467-23b8-43d9-876c-a7349c92ec24" "The Bishop orders His Tomb" %}}," "{{% resource_link "7af205bb-5f60-484b-8e71-6a0af675ee6f" "My Last Duchess" %}}," "{{% resource_link "8a68f128-7e2c-4231-92d8-1d857effc034" "Porphyria's Lover" %}}," "{{% resource_link "496a54cd-adc7-4b6b-8e79-4e5e23993c49" "Soliloquy in a Spanish Cloister" %}}." In *My Last Duchess and Other Poems.*
+Browning, Robert. "[The Bishop orders His Tomb](http://www.sparknotes.com/poetry/browning/section4.rhtml)," "[My Last Duchess](http://www.sparknotes.com/poetry/browning/section3.rhtml)," "[Porphyria's Lover](http://www.sparknotes.com/poetry/browning/section1.html)," "[Soliloquy in a Spanish Cloister](http://www.sparknotes.com/poetry/browning/section2.rhtml)." In *My Last Duchess and Other Poems.*
 
 *Ancillary Readings*
 
@@ -157,7 +157,7 @@ Film Noir as Style and as Moral Orientation
 
 Hammett, Dashiell. *The Maltese Falcon*.
 
-Film: {{% resource_link "634a7f99-5d91-4da3-8e9a-febecf0c9482" "*The Maltese Falcon*" %}}. Directed by John Huston. 1941.
+Film: [*The Maltese Falcon*](http://www.imdb.com/title/tt0033870/). Directed by John Huston. 1941.
 
 *Ancillary Readings*
 
@@ -177,7 +177,7 @@ Kane's Women
 
 {{< tdclose >}}{{< tdopen >}}
 
-Film: {{% resource_link "3b86a984-a8d2-4c1a-b394-cb42e716bf0b" "*Citizen Kane*" %}}. Directed by Orson Welles. 1941.
+Film: [*Citizen Kane*](http://www.imdb.com/title/tt0033467/). Directed by Orson Welles. 1941.
 
 *Ancillary Readings*
 
@@ -213,7 +213,7 @@ The Secret in the Marsh: Coming Clean about Secrets
 
 {{< tdclose >}}{{< tdopen >}}
 
-Film: {{% resource_link "edc240d6-f62e-4b09-a6c1-8629bd32515d" "*Psycho*" %}}. Directed by Alfred Hitchcock. 1960.
+Film: [*Psycho*](http://www.imdb.com/title/tt0054215/). Directed by Alfred Hitchcock. 1960.
 
 *Ancillary Readings*
 
